@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tan thanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tan thanh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/t%E1%BA%A5n-thanh-8906a6261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tan thanh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thanhtanphan-shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thanhtanphan-shaw" height="30" width="40" /></a>
 </p>
 
