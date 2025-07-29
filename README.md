@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phan Thanh Tan</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A passionate developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhtan2210&label=Profile%20views&color=0e75b6&style=flat" alt="thanhtan2210" /> </p>
 
