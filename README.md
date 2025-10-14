@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thanhtanphan011022@gmail.com**
 
-- 📄 Know about my experiences [Portfolio]([none](https://portfolio-thanhtanphan.netlify.app/))
+- 📄 Know about my experiences [Portfolio](https://portfolio-thanhtanphan.netlify.app/)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtan2210&show_icons=true&locale=en&layout=compact" alt="thanhtan2210" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtan2210&show_icons=true&locale=en" alt="thanhtan2210" /></p>
