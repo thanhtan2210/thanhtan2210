@@ -46,4 +46,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtan2210&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <!-- Profile Views Badge -->
-[![Profile Views](https://komarev.com/ghpvc/?username=DataWithBaraa&style=for-the-badge&color=blue)](https://github.com/thanhtan2210)
+[![Profile Views](https://komarev.com/ghpvc/?username=thanhtan2210&style=for-the-badge&color=blue)](https://github.com/thanhtan2210)
