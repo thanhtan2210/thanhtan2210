@@ -33,7 +33,7 @@
 ---
 ## 📫 How to reach me
 - 📧 Email: [thanhtanphan011022@gmail.com](mailto:thanhtanphan011022@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/t%E1%BA%A5n-thanh-8906a6261/) ```
+- 🔗 LinkedIn: [Thanh Tấn Phan](https://www.linkedin.com/in/t%E1%BA%A5n-thanh-8906a6261/) ```
 - 📄 Know more about me [Portfolio](https://portfolio-thanhtanphan.netlify.app/)
 
 ---
