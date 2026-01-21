@@ -1,17 +1,49 @@
-<h1 align="center">Hi 👋, I'm Phan Thanh Tan</h1>
-<h3 align="center">A passionate developer from Viet Nam</h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Thanh Tan! 
+### Data Engineer | Data Infrastructure & MLOps Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhtan2210&label=Profile%20views&color=0e75b6&style=flat" alt="thanhtan2210" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=thanhtan2210&label=Profile%20views&color=0e75b6&style=flat" alt="thanhtan2210" /> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🌱 I’m currently learning **tensorflow, pytourch,.....**
+## 💫 About Me
+- 🔭 I’m currently working on **Optimizing Data Pipelines and Scalable Architectures**.
+- 🌱 I’m deepening my knowledge in **TensorFlow, PyTorch** to bridge the gap between Data Engineering and **MLOps**.
+- 💬 Ask me about **Database Systems, ETL/ELT processes, and Machine Learning workflows**.
+- ⚡ Fun fact: I believe that "Data is the new oil, but only if you have a good refinery."
 
-- 💬 Ask me about **Database System, Machine Learning,...**
+---
 
-- 📫 How to reach me **thanhtanphan011022@gmail.com**
+## 🚀 Tech Stack & Tools
 
-- 📄 Know about my experiences [Portfolio](https://portfolio-thanhtanphan.netlify.app/)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtan2210&show_icons=true&locale=en&layout=compact" alt="thanhtan2210" /></p>
+### 🛠 Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhtan2210&show_icons=true&locale=en" alt="thanhtan2210" /></p>
+### 📊 Data Engineering & Big Data
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) 
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) 
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### 🤖 Machine Learning (Learning)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+## 📫 How to reach me
+- 📧 Email: [thanhtanphan011022@gmail.com](mailto:thanhtanphan011022@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/t%E1%BA%A5n-thanh-8906a6261/) ```
+- 📄 Know more about me [Portfolio](https://portfolio-thanhtanphan.netlify.app/)
+
+---
+## 📈 Profile Stats
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=thanhtan2210&show_icons=true&theme=tokyonight" alt="Thanh Tan's GitHub stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtan2210&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<!-- Profile Views Badge -->
+[![Profile Views](https://komarev.com/ghpvc/?username=DataWithBaraa&style=for-the-badge&color=blue)](https://github.com/thanhtan2210)
