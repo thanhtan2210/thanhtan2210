@@ -39,11 +39,16 @@
 ---
 ## 📈 Profile Stats
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=thanhtan2210&show_icons=true&theme=tokyonight" alt="Thanh Tan's GitHub stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thanhtan2210&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Thanh Tan's GitHub stats" height="195" />
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtan2210&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtan2210&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="195" />
+</div>
 
-<!-- Profile Views Badge -->
-[![Profile Views](https://komarev.com/ghpvc/?username=thanhtan2210&style=for-the-badge&color=blue)](https://github.com/thanhtan2210)
+<br />
+
+<div align="center">
+  <a href="https://github.com/thanhtan2210">
+    <img src="https://komarev.com/ghpvc/?username=thanhtan2210&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile Views" />
+  </a>
+</div>
