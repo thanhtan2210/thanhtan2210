@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Thanh Tan! 
-### Data Engineer | Data Infrastructure & MLOps Enthusiast
+### Data Engineer | Software Engineer | ML Engineer
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=thanhtan2210&label=Profile%20views&color=0e75b6&style=flat" alt="thanhtan2210" /> 
