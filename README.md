@@ -7,28 +7,11 @@
 
 ---
 
-## 💫 About Me
-- 🔭 I’m currently working on **Optimizing Data Pipelines and Scalable Architectures**.
-- 🌱 I’m deepening my knowledge in **TensorFlow, PyTorch** to bridge the gap between Data Engineering and **MLOps**.
-- 💬 Ask me about **Database Systems, ETL/ELT processes, and Machine Learning workflows**.
-- ⚡ Fun fact: I believe that "Data is the new oil, but only if you have a good refinery."
-
----
-
-## 🚀 Tech Stack & Tools
-
-### 🛠 Languages & Core
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 📊 Data Engineering & Big Data
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) 
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) 
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### 🤖 Machine Learning (Learning)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## About Me
+-  I’m currently working on **Optimizing Data Pipelines and Scalable Architectures**.
+-  I’m deepening my knowledge in **TensorFlow, PyTorch** to bridge the gap between Data Engineering and **MLOps**.
+-  Ask me about **Database Systems, ETL/ELT processes, and Machine Learning workflows**.
+-  Fun fact: I believe that "Data is the new oil, but only if you have a good refinery."
 
 ---
 ## 📫 How to reach me
@@ -37,7 +20,7 @@
 - 📄 Know more about me [Portfolio](https://portfolio-thanhtanphan.netlify.app/)
 
 ---
-## 📈 Profile Stats
+##  Profile Stats
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=thanhtan2210&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Thanh Tan's GitHub stats" height="195" />
