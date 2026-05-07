@@ -14,10 +14,10 @@
 -  Fun fact: I believe that "Data is the new oil, but only if you have a good refinery."
 
 ---
-## 📫 How to reach me
-- 📧 Email: [thanhtanphan011022@gmail.com](mailto:thanhtanphan011022@gmail.com)
-- 🔗 LinkedIn: [Thanh Tấn Phan](https://www.linkedin.com/in/t%E1%BA%A5n-thanh-8906a6261/) ```
-- 📄 Know more about me [Portfolio](https://portfolio-thanhtanphan.netlify.app/)
+##  How to reach me
+-  Email: [thanhtanphan011022@gmail.com](mailto:thanhtanphan011022@gmail.com)
+-  LinkedIn: [Thanh Tấn Phan](https://www.linkedin.com/in/t%E1%BA%A5n-thanh-8906a6261/) ```
+-  Know more about me [Portfolio](https://portfolio-thanhtanphan.netlify.app/)
 
 ---
 ##  Profile Stats
