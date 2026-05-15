@@ -1,26 +1,37 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Thanh Tan! 
-### Data Engineer | Software Engineer | ML Engineer
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> # Hi there, I'm Thanh Tan!
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=thanhtan2210&label=Profile%20views&color=0e75b6&style=flat" alt="thanhtan2210" /> 
-</p>
+**Data & Software Engineer**
 
 ---
 
-## About Me
--  I’m currently working on **Optimizing Data Pipelines and Scalable Architectures**.
--  I’m deepening my knowledge in **TensorFlow, PyTorch** to bridge the gap between Data Engineering and **MLOps**.
--  Ask me about **Database Systems, ETL/ELT processes, and Machine Learning workflows**.
--  Fun fact: I believe that "Data is the new oil, but only if you have a good refinery."
+### About Me
+
+• Currently working on optimizing **Data Pipelines** and **Scalable Architectures**.
+
+
+
+
+• Deepening knowledge in **TensorFlow** and **PyTorch** to bridge Data Engineering and **MLOps**.
+
+
+
+
+• Ask me about **Database Systems**, **ETL/ELT processes**, and **Machine Learning workflows**.
+
+
+
+
+• *Fun fact: Data is the new oil, but only if you have a good refinery.*
 
 ---
-##  How to reach me
--  Email: [thanhtanphan011022@gmail.com](mailto:thanhtanphan011022@gmail.com)
--  LinkedIn: [Thanh Tấn Phan](https://www.linkedin.com/in/t%E1%BA%A5n-thanh-8906a6261/) ```
--  Know more about me [Portfolio](https://portfolio-thanhtanphan.netlify.app/)
+
+### How to Reach Me
+
+[Email](thanhtanphan011022@gmail.com) • [LinkedIn](https://www.linkedin.com/in/t%E1%BA%A5n-thanh-8906a6261/) • [Portfolio](https://portfolio-thanhtanphan.netlify.app/)
 
 ---
-##  Profile Stats
+
+### Profile Stats
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=thanhtan2210&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Thanh Tan's GitHub stats" height="195" />
